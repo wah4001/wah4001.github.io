@@ -1,0 +1,31 @@
+---
+title: "Wanyi He"
+---
+
+<!-- add image to the homepage -->
+<img src="folder/image.jpeg" style="width:20%; margin-right: 35px; margin-top: 32px; margin-bottom: 20px" align="left"> 
+
+<br>
+
+**Cornell University**  
+Weill Graduate School of Medical Science, New York, NY  
+M.S in Biostatistics and Data Science  
+Class of 2019
+
+**Purdue University**  
+College of Science, West Lafayette, IN  
+B.S in Mathematics/Business, Applied Statistics  
+Minors in Management, Film and Video Study  
+Class of 2017
+
+My [resume](folder/Resume.pdf) is available here. 
+
+<br>
+
+**I've been trained for the following technical skills in Data Science:**
+
+Programming: RStudio, Python, [SAS](folder/SAS Certified Base Programmer for SAS 9 certificate.pdf), MySQL, REDCap  
+
+Analytics: Regression, Clustering, Classfication, Decision Trees, Random Forest, Dimension Reduction, Neural Network
+
+Analysis: Univariate/Bivariate/Multivariate Data Analysis,  Survival Data Analysis,  High-dimensional Data Analysis

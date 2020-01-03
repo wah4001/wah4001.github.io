@@ -1,0 +1,42 @@
+---
+title: "Project"
+output: html_document
+---
+
+<br>
+
+**School Safety Study of 2014 in the New York City**
+
++ Time: November 2019
++ Description: The objective of this study is to do a _clustering_ on the public school safety in the New York City in order to help the police department to efficiently allocate the resources to against crimes and violence around schools. The introducing analysis was done based on the data from the [Education](https://data.cityofnewyork.us/browse?q=education) section on the website of NYC Open Data.
++ Click [here](NYC_School_Safety_2014.html) to view the analysis report on Python profile
++ Supervisor: [Elizabeth Sweeney](https://directory.weill.cornell.edu/person/profile/ems4003)
+
+<br>
+
+**Shiny App Development:** _The Environmental Impact of Meat Consumption for Happy Valley Meat Company_
+
++ Time: October 2019
++ Description: This shiny app was designed for the Happy Valley Meat Company to display the environmental impact of meat consumptions.
++ Click [here](https://wah4001.shinyapps.io/HVMeat/) to view the shiny app
++ Click [here](https://github.com/wah4001/Happy-Valley-Meat) to view the github file
++ Supervisor: [Elizabeth Sweeney](https://directory.weill.cornell.edu/person/profile/ems4003)
+
+<br>
+
+**R Package Development:** _preAnalysis_
+
++ Time: March 2019 - April 2019
++ Description: This R package was developed with the target of efficiently preparing data before analysis. Functions were designed for the graphical and tabular representations of the data in [National Health and Nutrition Examimation Survey](https://www.cdc.gov/nchs/nhanes/index.htm) (NHANES) database.
++ Click [here](https://github.com/wah4001/R-Packages/tree/preAnalysis) to view the github file
++ Supervisor: [Xi Kathy Zhou](https://directory.weill.cornell.edu/person/profile/kaz2004)
++ Collaborator: Yu Cai
+
+<br>
+
+**Covariates for Developing Heart Diseases**
+
++ Time: April 2019
++ Description: This is a biostatistical study focusing on Heart Diseases. The primary objective is to identify the potential reasons that are significant to whether to develop a heart disease or not as well as its severity. The secondary objective is to find out the balance between the study costs and effectiveness.
++ Click [here](folder/Final Poster.pdf) to view the poster
++ Supervisor: Jihui Lee

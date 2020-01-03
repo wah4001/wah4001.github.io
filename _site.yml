@@ -1,0 +1,23 @@
+name: "Wanyi He's Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  type: default
+  
+  left:
+    - text: "Research"
+      href: Research.html
+    - text: "Project"
+      href: Project.html
+  
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/wah4001
+    - icon: fa-linkedin fa-lg
+      href: http://www.linkedin.com/in/wanyihe
+    - icon: fa-envelope fa-lg
+      href: mailto:dorahwy713@gmail.com
+
+output:
+  html_document:
+    theme: flatly

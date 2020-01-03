@@ -1,0 +1,36 @@
+---
+title: "Research"
+output: html_document
+---
+
+<br >
+
+**EHE Retrospective Chart Review Study**
+
++ Time: June 2019 - Present
++ Title: [Research Assistant](folder/WCMC - Employment Verification Letter.pdf)
++ Organization: Weill Cornell Medicine, Department of Healthcare Policy and Research
++ Location: 402 E 67 ST, New York, NY 10065
++ Supervisor: [Karla V. Ballman](https://gradschool.weill.cornell.edu/faculty/karla-ballman)
+
+<br>
+
+**Racial and Regional Differences in Active Surveillance for Low-Risk Prostate Cancer in the United States**
+
++ Time: May 2019 - August 2019
++ Title: [Biostatistician](folder/Capstone - Verification Letter.pdf)
++ Organization: Weill Cornell Medicine, Department of Healthcare Policy and Research
++ Location: 402 E 67 ST, New York, NY 10065
++ Supervisor: [Paul J. Christos](https://gradschool.weill.cornell.edu/faculty/paul-christos), Xiaoyue Ma
++ Collaborators: Yu Cai, Zixuan Zhang
++ Click [here](folder/Capstone.pdf) to view the report of study
+
+<br>
+
+**Voice for Food: Evaluated the effect of Supplemental Nutrition Assistance Program education on household food security status and dietary intake**
+
++ Time: September 2017 - December 2017
++ Title: Student Data Associate
++ Organization: Purdue University, Department of Nutrition Science
++ Location: 700 W State Street, West Lafayette, IN 47907
++ Supervisor: [Heather A. Eicher-Miller](https://www.purdue.edu/hhs/nutr/directory/faculty/eicher-miller_heather.html), Rebecca L. Rivera
